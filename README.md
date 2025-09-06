@@ -59,4 +59,6 @@ The primary objective is to make the dataset model-ready with respect to the tar
 - Ensures modularity, reusability, and reproducibility
 ## Documentation
 
+<embed src="case_study_report.pdf" width="100%" height="600px" type="application/pdf">
+
 
